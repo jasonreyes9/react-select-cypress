@@ -17,7 +17,7 @@
     "@magical-types/pretty": "^0.3.5",
     "@magical-types/serialization": "^0.2.1",
     "@magical-types/types": "^0.1.2",
-    "@types/chroma-js": "^1.4.3",
+    "@types/chroma-js": "^2.4.2",
     "@types/node-fetch": "^2.5.8",
     "@types/raf-schd": "^4.0.0",
     "@types/react-codesandboxer": "^3.1.0",
